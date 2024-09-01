@@ -1,5 +1,4 @@
-# python_project
-Analyzing stock performance and building dashboard using python
+#Analyzing stock performance and building dashboard using python
 
 (This project is a part of IBM data science professional certificate)
 As part of a dynamic startup investment firm, I’m spearheading a project to develop an advanced financial data dashboard. The goal is to empower investors by providing clear and actionable insights into stock performance.
